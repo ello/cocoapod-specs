@@ -1,2 +1,2 @@
-# specs
+# Specs
 The Ello CocoaPods Specs
