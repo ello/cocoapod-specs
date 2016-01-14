@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.source_files = 'Pod/Code/ElloOSSUIFonts.swift'
 
   s.frameworks = 'UIKit', 'CoreText'
-  s.module_name = 'ElloOSSUIFonts'
+  s.module_name = 'ElloUIFonts'
 end
